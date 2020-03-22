@@ -19,3 +19,22 @@ body {
 	text-shadow: 5px 5px red;
 }
 
+nav, header, footer {
+	padding: 2rem;
+	background: linear-gradient(to left, #afbfcf, #dfefff, #efefff, #fff, #fff);	
+}
+
+.alert {
+	background-color: rgba(20, 30, 50, 0.8);
+	padding: 1rem;
+	border-radius: 15px;
+	margin: 5rem;
+}
+
+.red {
+	color: #f00;
+}
+
+.green {
+	color: #0f0;
+}

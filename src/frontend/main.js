@@ -4,4 +4,4 @@ require('../views/home.html')
 
 require('../styles/main.css')
 
-require('./react/root')
+require('./react/root.jsx')

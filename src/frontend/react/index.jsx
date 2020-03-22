@@ -1,11 +1,13 @@
 import React from 'react'
-import Header from './header/header'
-import Main from './main/main'
-import Footer from './footer/footer'
+import Nav from './nav/nav.jsx'
+import Header from './header/header.jsx'
+import Main from './main/main.jsx'
+import Footer from './footer/footer.jsx'
 
 const Index = () => {
 	return(
 		<div className="container">
+			<Nav />
 			<Header />
 			<Main />
 			<Footer />
