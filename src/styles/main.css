@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+
+body {
+	background: linear-gradient(to right, #afbfcf, #dfefff, #efefff, #fff, #fff);
+	margin: 0;
+	font-family: 'Quicksand', sans-serif;
+	text-align: center;
+}
+
+.icon-container {
+	font-size: 8rem;
+}
+
+.icon {
+	color: #234;
+	border-radius: 10px;
+	padding: .5rem;
+	margin: 1rem 2rem;
+	text-shadow: 5px 5px red;
+}
+
