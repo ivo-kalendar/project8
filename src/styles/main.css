@@ -25,16 +25,21 @@ nav, header, footer {
 }
 
 .alert {
-	background-color: rgba(20, 30, 50, 0.8);
 	padding: 1rem;
 	border-radius: 15px;
-	margin: 5rem;
+	margin: 1rem;
+}
+
+.parent {
+	background: linear-gradient(to right, #afbfcf, #dfefff, #efefff, #fff, #fff);	
 }
 
 .red {
 	color: #f00;
+	background-color: rgba(20, 30, 50, 0.2);
 }
 
 .green {
+	background-color: rgba(20, 30, 50, 0.8);
 	color: #0f0;
 }
